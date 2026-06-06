@@ -12,7 +12,7 @@ Results-driven Strategy & Operations professional with an **MBA in Business Anal
 
 I specialize in translating complex data into actionable insights for C-suite stakeholders — combining rigorous analytical thinking with tools like Power BI, advanced Excel, and SQL.
 
-Currently pursuing **NISM Series V-A** (Mutual Funds) certification, with a focus on BFSI and investment management sectors.
+Currently pursuing **NISM Series V-A** certification, with a focus on BFSI and investment management sectors.
 
 ---
 

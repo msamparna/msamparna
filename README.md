@@ -27,16 +27,13 @@ Currently pursuing **NISM Series V-A** (Mutual Funds) certification, with a focu
 
 ---
 
-## 📂 Featured Projects
+#### 📂 Featured Projects
 
-> 🚧 Projects being uploaded — check back soon!
-
-- 📊 **Financial Dashboard** — Power BI dashboard for multi-source revenue and ops data
-- 📈 **FP&A Model** — Dynamic scenario analysis and KPI tracking in Excel
-- 🗃️ **SQL Portfolio Analytics Queries** — Data extraction and reporting scripts
-
----
-
+| Project | Description | Tools |
+|---|---|---|
+| [SQL Portfolio Analytics](https://github.com/msamparna/sql-portfolio-analytics) | Portfolio performance, KPI tracking & variance reporting queries | SQL |
+| [FP&A Financial Model](https://github.com/msamparna/fpa-financial-model) | Dynamic scenario analysis, variance reporting & KPI framework | Excel, FP&A |
+| [Power BI Operations Dashboard](https://github.com/msamparna/powerbi-operations-dashboard) | Multi-source revenue, vendor & project performance dashboard | Power BI, DAX |
 ## 🎓 Education & Certifications
 
 - 🎓 Global MBA in Business Analytics — Golden Gate University
